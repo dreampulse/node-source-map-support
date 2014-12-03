@@ -1,0 +1,24 @@
+{
+  "name": "source-map-support",
+  "version": "0.2.8",
+  "homepage": "https://github.com/dreampulse/node-source-map-support",
+  "authors": [
+    "Jonathan Häberle <jonathan.haeberle@gmail.com>"
+  ],
+  "description": "Fixes stack traces for files with source maps",
+  "main": "browser-source-map-support.js",
+  "keywords": [
+    "map",
+    "source",
+    "map"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
+}
